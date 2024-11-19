@@ -9,5 +9,6 @@ public class Test {
         System.out.println(" master  add e ");
 
         System.out.println(" dev  add 1 ");
+        System.out.println(" dev  add 2 ");
     }
 }
