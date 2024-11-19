@@ -7,5 +7,7 @@ public class Test {
         System.out.println(" master add one line content");
         System.out.println(" master  add d ");
         System.out.println(" master  add e ");
+
+        System.out.println(" dev  add 1 ");
     }
 }
