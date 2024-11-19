@@ -19,5 +19,6 @@ public class Test {
         System.out.println(" feature  add a ");
         System.out.println(" feature  add b");
         System.out.println(" feature  add c ");
+        System.out.println(" master  add d ");
     }
 }
