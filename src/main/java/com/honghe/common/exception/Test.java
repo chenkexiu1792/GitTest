@@ -11,5 +11,6 @@ public class Test {
         System.out.println(" dev  add 1 ");
 
         System.out.println(" fea1  add 1 ");
+        System.out.println(" fea1  add 2 ");
     }
 }
