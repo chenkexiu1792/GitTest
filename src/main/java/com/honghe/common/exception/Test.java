@@ -8,6 +8,6 @@ public class Test {
         System.out.println(" master  add d ");
         System.out.println(" master  add e ");
 
-        System.out.println(" dev  add 2 ");
+        System.out.println(" dev  add 1 ");
     }
 }
