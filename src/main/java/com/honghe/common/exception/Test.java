@@ -20,5 +20,8 @@ public class Test {
             strMsg = "设备管理单位未匹配";
         }
         System.out.println(strMsg);
+        System.out.println(" master add one line content");
+        System.out.println(" master  add d ");
+        System.out.println(" master  add e ");
     }
 }
